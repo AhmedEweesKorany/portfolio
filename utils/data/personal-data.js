@@ -10,7 +10,7 @@ export const personalData = {
   facebook: 'https://www.facebook.com/ahmed.azoz.33821/',
   linkedIn: 'https://www.linkedin.com/in/ahmed-ewees-528657288/',
   twitter: 'https://x.com/AhmedEweesvi34',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+  stackOverflow: '#',
   leetcode: "https://leetcode.com/u/Ahmed_Ewees/",
   devUsername: "AhmedEweesKorany",
   resume: "https://ahmedewaisvi34.hackerresume.io/9c0662de-b69f-413d-ac4f-e42baf44827c"
